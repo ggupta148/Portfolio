@@ -1,0 +1,69 @@
+{
+  "hero": {
+    "name": "Gaurav Gupta",
+    "title": "Full Stack Web Developer",
+    "description": "Building amazing web experiences with modern technologies. Passionate about creating scalable, user-friendly applications.",
+    "social": {
+      "github": "https://github.com/yourusername",
+      "linkedin": "https://linkedin.com/in/yourusername",
+      "twitter": "https://twitter.com/yourusername"
+    }
+  },
+  "about": {
+    "bio": "I am a passionate full stack web developer with expertise in building modern, scalable web applications. I love turning ideas into reality through clean code and intuitive user experiences.",
+    "bio2": "With a strong foundation in both frontend and backend technologies, I create end-to-end solutions that are performant, maintainable, and user-friendly.",
+    "stats": [
+      { "label": "Years Experience", "value": "1+" },
+      { "label": "Projects Completed", "value": "15+" },
+      { "label": "Technologies", "value": "20+" },
+      { "label": "Happy Clients", "value": "30+" }
+    ]
+  },
+  "skills": {
+    "categories": [
+      {
+        "title": "Frontend",
+        "items": ["React", "Next.js", "TypeScript", "Tailwind CSS", "Redux"]
+      },
+      {
+        "title": "Backend",
+        "items": ["Node.js", "Express", "MongoDB", "PostgreSQL", "REST APIs"]
+      },
+      {
+        "title": "Tools & Others",
+        "items": ["Git", "Docker", "AWS", "CI/CD", "Agile"]
+      }
+    ]
+  },
+  "projects": {
+    "projects": [
+      {
+        "title": "E-Commerce Platform",
+        "description": "Full-stack e-commerce solution with payment integration, user authentication, and admin dashboard.",
+        "tech": ["React", "Node.js", "MongoDB", "Stripe"],
+        "github": "https://github.com/yourusername/project1",
+        "live": "https://project1.com"
+      },
+      {
+        "title": "Task Management App",
+        "description": "Collaborative task management with real-time updates, drag-and-drop interface, and team collaboration features.",
+        "tech": ["React", "Firebase", "Tailwind CSS", "Redux"],
+        "github": "https://github.com/yourusername/project2",
+        "live": "https://project2.com"
+      },
+      {
+        "title": "Social Media Dashboard",
+        "description": "Analytics dashboard for social media metrics with data visualization and reporting features.",
+        "tech": ["React", "Chart.js", "Express", "PostgreSQL"],
+        "github": "https://github.com/yourusername/project3",
+        "live": "https://project3.com"
+      }
+    ]
+  },
+  "contact": {
+    "message": "Feel free to reach out for collaborations or just a friendly hello! I'm always open to discussing new projects and opportunities.",
+    "email": "your.email@example.com",
+    "phone": "+1 234 567 8900",
+    "location": "Your City, Country"
+  }
+}
